@@ -143,6 +143,8 @@ And then, copy the output of a cell to the clipboard
 
 ![image-20220903191455734](readme.assets/image-20220903191455734.png)
 
+I also deploy notebook in `mercury/img2lcd` as a web app on http://114.116.39.182/. The deply guide is on https://zhuanlan.zhihu.com/p/561248459
+
 ## epaper
 
 Image encoding principle: binarize eight consecutive pixels, and write the binarized 0, 1 string into a hexadecimal byte.
